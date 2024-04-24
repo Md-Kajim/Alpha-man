@@ -1,2 +1,2 @@
 # Alpha-man
-Learning about Git &amp; Github.
+Learning about Git &amp; Github...
